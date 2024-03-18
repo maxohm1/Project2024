@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072341624324",
+    "project_id": "logon-69775",
+    "storage_bucket": "logon-69775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072341624324:android:f2108efad5df7a2b7f7751",
+        "android_client_info": {
+          "package_name": "hoods.com.jetlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsbPjSY-3e3atofFMo4g2ewAcEgvI6bmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
